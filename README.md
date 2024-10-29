@@ -18,7 +18,12 @@ A sleek and intuitive financial tracking app built with React Native. It helps u
 
 📸 **Screenshots**
 
-_(Add your app screenshots here to showcase your design!)_
+- **Transactions Screen**  
+  ![Transactions Screen](./assets/screenshots/transactions-screen.png)
+
+- **Summary Screen**  
+  ![Summary Screen](./assets/screenshots/summary-screen.png)
+
 
 🚀 **Getting Started**
 Follow these steps to get the project up and running locally.
